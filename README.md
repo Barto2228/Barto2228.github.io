@@ -11,7 +11,7 @@ Czasu Present Simple używamy do:
 ### Przykłady:
 
 1.  I go to school from Monday to Friday.
-2.  My mom doesn't always cook**s** dinner.
+2.  My mom always cook**s** dinner.
 3.  My sister play**s** tenis.
 
 #### Słowa określające częstotliwości:
