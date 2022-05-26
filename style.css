@@ -1,4 +1,14 @@
-       h1 {
+body {
+    background: linear-gradient(45deg, rgb(7, 144, 207),#eb4f85);
+    color: #f5cd79;
+   /* background-color: #7ed6df;*/
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+h1 {
     margin-left: 600px;
 }
 
