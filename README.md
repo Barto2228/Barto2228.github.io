@@ -417,4 +417,3 @@ Osoba + **won't** + have + czasownik w **3formie** + reszta zdania
 Zaimek pytający + **will** + have + reszta zdania.
 
 
-https://zaklikowzso-my.sharepoint.com/:p:/g/personal/bwierzbinski_zaklikowzso_onmicrosoft_com/EXTzTlTpnbZIjGlpuzFu6RUBxKtwg2hdCvrD4-6U32unlw?e=EU2YrL
