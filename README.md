@@ -1,4 +1,3 @@
-
 Present Simple
 ==============
 
@@ -47,8 +46,6 @@ Gdy czasownika jest zakończony jest na **sh,ch,s**to dopisujemy **es**.
 ### Przeczenia:
 
 Osoba + Don't/Doesn't + Czasownik + Reszta zdania
-
-  
 
 ### Pytania:
 
@@ -100,8 +97,6 @@ na spółgłoska,samogłoską,spółgłoska to podwajamy ostatnią literę.
 
 Osoba + to be not + Czasownik z **ing** + Reszta zdania
 
-  
-
 ### Pytania:
 
 Zaimek pytający + to be + reszta zdania.
@@ -119,17 +114,18 @@ Czasu present perfect używamy do:
 1.  She has wasched the dog.
 2.  I have gone to school.
 3.  Have you read the book yet?
-
-1.  for - od
-2.  playsince - od
-3.  playalready - już
-4.  playalways - zawsze
-5.  playjust - właśnie
-6.  playyet - już; jeszcze
-7.  playever - kiedykolwiek
-8.  playnever - nigdy
-9.  playlately - ostatnio
-10.  playrecently - ostatnio
+    
+4.  for - od
+    
+5.  playsince - od
+6.  playalready - już
+7.  playalways - zawsze
+8.  playjust - właśnie
+9.  playyet - już; jeszcze
+10.  playever - kiedykolwiek
+11.  playnever - nigdy
+12.  playlately - ostatnio
+13.  playrecently - ostatnio
 
 ### Budowa:
 
@@ -140,8 +136,6 @@ Jeśli czasownik jest regularny to dodajemy **ed** a jeśli czasownik jest niere
 ### Przeczenia:
 
 Osoba + **has**/**have** z **not** + Reszta zdania
-
-  
 
 ### Pytania:
 
@@ -163,8 +157,8 @@ Czasu present perfect używamy do:
 
 #### Czensto użwywane:
 
-2.  recently - ostatnio
-3.  playlately - ostatnio
+1.  recently - ostatnio
+2.  playlately - ostatnio
 
 ### Budowa:
 
@@ -173,8 +167,6 @@ Osoba + **has**/**have** + **been** + reszta zdania + **ing**
 ### Przeczenia:
 
 Osoba + **has**/**have** z **not** + **been** + Reszta zdania +**ing**
-
-  
 
 ### Pytania:
 
@@ -214,8 +206,6 @@ na **i** i dopisujemy **ed**
 
 Osoba + to be not + Czasownik z **ed** + Reszta zdania
 
-  
-
 ### Pytania:
 
 Zaimek pytający + **did** + reszta zdania.
@@ -244,8 +234,6 @@ jeżeli czasownik zakończony jest **ie** to opuszczamy e i dopisujemy **ing**, 
 ### Przeczenia:
 
 Osoba + to be not + Czasownik z **ing** + Reszta zdania
-
-  
 
 ### Pytania:
 
@@ -297,8 +285,6 @@ na spółgłoska,samogłoską,spółgłoska to podwajamy ostatnią literę.
 
 Osoba + to be not + Czasownik z **ing** + Reszta zdania
 
-  
-
 ### Pytania:
 
 Zaimek pytający + to be + reszta zdania.
@@ -324,8 +310,6 @@ Osoba + **had** + Czasownik z końcówką **ing** + reszta zdania
 ### Przeczenia:
 
 Osoba + had not + Czasownik z **ing** + Reszta zdania
-
-  
 
 ### Pytania:
 
@@ -354,8 +338,6 @@ Osoba + **will** + reszta zdania
 
 Osoba + **won't** + Reszta zdania
 
-  
-
 ### Pytania:
 
 Zaimek pytający + **will** + reszta zdania.
@@ -380,8 +362,6 @@ Osoba + **will** + czasownik z końcówką **ing** + reszta zdania
 ### Przeczenia:
 
 Osoba + **won't** + czasownik z końcówką **ing** + Reszta zdania
-
-  
 
 ### Pytania:
 
@@ -410,10 +390,85 @@ Osoba + **will** + have + czasownik w **3formie** + reszta zdania
 
 Osoba + **won't** + have + czasownik w **3formie** + reszta zdania
 
-  
+### Pytania:
+
+Zaimek pytający + **will** + have + reszta zdania.
+
+Future Perfect
+==============
+
+Czasu future perfect używamy do:
+
+*   Spątaniczne decyzje.
+*   Groźby.
+*   Obietnice.
+
+### Przykłady:
+
+1.  She will have passed the exam.
+2.  I will have come to you tomorrow.
+3.  The children will have gone to bed early.
+
+### Budowa:
+
+Osoba + **will** + have + czasownik w **3formie** + reszta zdania
+
+### Przeczenia:
+
+Osoba + **won't** + have + czasownik w **3formie** + reszta zdania
 
 ### Pytania:
 
 Zaimek pytający + **will** + have + reszta zdania.
 
+stopniowanie Przymiotników i konstrukcja as as
+==============================================
 
+Stopniowania przymiotników używamy do:
+
+*   Gdy chcemy coś z czymś porównać.
+*   Gdy chcemy powiedzieć, że coś naj.
+
+konstrukcja as as
+
+*   Gdy wszkazujemy ,że coś od czegoś się nie różni
+
+### Przykłady:
+
+1.  I'm as clever as you.
+2.  I'm stronger than you.
+3.  Lion is the fastest.
+
+### Wyjątki:
+
+5.  good - better - the best
+6.  bad - worse - the worst
+7.  little - less - the least
+8.  far - further - the furthest
+9.  much i many - mar - the most
+
+### stopień wyższy:
+
+Za pomocą końcówki **er** tworzymy stopień **wyższy** + reszta zdania
+
+### Stopień najwyższy
+
+Za pomocą końcówki **est** tworzymy stopień najwyższy **najwyższy** oraz przed przymiotnikiem stawiamy **the**
+
+### konstrukcja as as
+
+Między **as as** stawiamy przymiotnik w stopniu **równym**
+
+### Krótkie przymiotniki
+
+Na przykład przymiotnik **big** podwajamy **g**
+
+### Przymiotniki zakończone na **y**
+
+Na przykład przymiotnik **happy** **y** zamieniamy na **i**
+
+### Przymiotniki długie
+
+Na przykład przymiotnik **beautiful** stopniujemy tak:  
+
+*   beautiful - more beautiful - the most beautiful
