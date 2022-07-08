@@ -472,3 +472,28 @@ Na przykład przymiotnik **happy** **y** zamieniamy na **i**
 Na przykład przymiotnik **beautiful** stopniujemy tak:  
 
 *   beautiful - more beautiful - the most beautiful
+
+Going to
+========
+
+Konstrukcje going to używamy do:
+
+*   Mówienie o planach na bliską przyszłości.
+
+### Przykłady:
+
+1.  I am going to work at Google.
+2.  You aren't going to buy book.
+3.  Is she going to spend money.
+
+### Budowa:
+
+Osoba + **to be** + **going to** + czasownik w formie **podstawowej** + reszta zdania
+
+### Przeczenia:
+
+Osoba + **to be** + **not** + **going to** + czasownik w formie **podstawowej** + reszta zdania
+
+### Pytania:
+
+Zaimek pytający + **to be** + **going to** + reszta zdania.
