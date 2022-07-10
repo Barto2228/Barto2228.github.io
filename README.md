@@ -497,3 +497,8 @@ Osoba + **to be** + **not** + **going to** + czasownik w formie **podstawowej** 
 ### Pytania:
 
 Zaimek pytający + **to be** + **going to** + reszta zdania.
+
+### Primary
+
+- Dark cyan: hsl(158, 36%, 37%)
+- Cream: hsl(30, 38%, 92%)
